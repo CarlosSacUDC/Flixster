@@ -30,7 +30,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src="Flixster - demo.gif" title='Video Walkthrough' width='50%' alt='Video Walkthrough' />
+<img src="Flixster - demo.gif" title='Video Walkthrough' width='200' alt='Video Walkthrough' />
 
 
 GIF created with [ScreenToGif](https://www.screentogif.com/) for Windows
