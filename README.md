@@ -1,8 +1,8 @@
-# Android Project 3 - *Name of App Here*
+# Android Project 3 - *Flixster: Now Playing*
 
 Submitted by: **Carlos Sac**
 
-**Name of your app** is a movie browsing app that allows users to browse movies currently playing in theaters.
+**Flixster+** is a movie browsing app that allows users to browse movies currently playing in theaters.
 
 Time spent: **4** hours spent in total
 
@@ -45,7 +45,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2024] [Carlos Sac]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
